@@ -135,3 +135,19 @@ As soon as he selects it, the route to the park is loaded in the app and it star
 So they both Josh and the girl start the route and they keep with the conversation they were having. Josh realises that the app information about the route is shown in a very subtle way what he finds a very good idea because he wants to focus his attention on the girl and prefers the app not to be very intrusive. The next step of the route they are following is just shown with a little message below the map.
 
 After a while walking and talking they get to the park and the map starts just showing Josh position.
+
+##Validation scenarios (first pass)
+We decided not to do any validation scenario as we found them not very useful in our app. 
+
+This step is usually thought to find some flaws in the design of very complex apps in terms of controls or having too many different views. It is also used to find missing functionalities that were thought but that never reached to the sketches so they aren’t missing in the final product.
+
+Our app do have just a few functionalities and screens and our main focus is how to not to be very intrusive for the user at the same time we give enough information in a subtle way.
+
+##First Iteration Takeaways
+After discussing the prototypes and keypath scenarios, we distilled a list of changes that we wanted the next iteration to have.
+###Pre-date view:
+- The first thing that should appear is a sort of cover with the tastes of the date, similar to the one in Daniel’s prototype.
+- The size and organization of the tabs will follow Borja’s prototype, except that the active tab will be brighter, and the inactive ones will be darker.
+- The search bar was identical in both prototypes, so it should remain unchanged.
+- The social networks will not be individually filterable, and instead a digest will appear, containing unified information of each of them.
+- The “Iterests” tab will contain information about the last posts made, followed pages and personalities, common acquaitances and former partners.
