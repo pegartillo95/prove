@@ -42,3 +42,16 @@ These elements have been extracted directly from the requriements.
   1. From our “main view” we can identify an wikipedia search bar showing the title in every moment of the subject that is relevant in that moment form the application point of view.
   2. Josh can see the information about the subject the application decides in any moment.
   3. When seeing the information Josh can select rapidly where to go in an index.
+
+- Connect (Action) to every social network to extract the personal information of the hobbies of the target girl (object) before the date (context).
+
+  1. When Josh starts walking to the date location, a notification will automatically shown in order to open the girl’s profile.
+  2. We can open her profile whenever the notification is activated.
+  3. When showing the profile Josh can select what to read and when to close it.
+
+- Connect (Action) to Google Maps (object) when requested by the user (context).
+
+  1. A map with your location will be shown in every moment in the “main view”.
+  2. In every moment Josh is able to ask for going to different places. At the same time the application is suggesting locations whenever is important from the application point of view.
+  3. When the places are found he can select one of them.
+  4. A track will be shown whenever Josh selects a target place. Alternative paths can be taken by Josh.
