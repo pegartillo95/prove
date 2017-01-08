@@ -55,3 +55,21 @@ These elements have been extracted directly from the requriements.
   2. In every moment Josh is able to ask for going to different places. At the same time the application is suggesting locations whenever is important from the application point of view.
   3. When the places are found he can select one of them.
   4. A track will be shown whenever Josh selects a target place. Alternative paths can be taken by Josh.
+
+###Aaron:
+- Show (Action) the information (Object) in a way that is not very intrusive because the one using it (Context) has to be able to follow the app info at the same time that is having a date with someone.
+
+  1. The “main window” is generally empty in the center and part of the sides.
+  2. Notifications will only be shown when it is extremely advisable from the application’s point of view.
+  3. Aaron can close any notification as soon he is uncomfortable with it.
+
+###Helene:
+- Display (action) a box (object) to see all the previous relationships of the guy and see the comments of their ex-girlfriends beforehand (context). It should search (action) for common hobbies(object) and propose new topics (action) to Helene in the screen when the conversation stalls(context).
+The same as the second functional element of Josh. It can also notify when to talk about some particular topic. (Notice that there are two functional elements in one)
+
+- She wants to know if the guy is trustworthy, so the app has to notify(action) this information and the reasons(object) in advance(context), so Helene does not waste time. The app should notify (Action) if the guy (object) is looking for a long term relationship during the date (context).
+A notification will be shown just the same way as with Aaron. (Notice that there are two functional elements in one)
+
+- The app has to analyze (action) the user gestures and face (object) and find out if the guy is starting to fall in love (action) during the date (context).
+
+  1. We can see the emotional state of the other person permanently in the “main view”.
