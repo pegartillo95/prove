@@ -34,9 +34,9 @@ These elements have been extracted directly from the requriements.
 ..* Easy to read.
 ..* Intermittent (it appears and disappears).
 
-1. First ordered list item
-2. Another item
+1. Map
+2. Emotion
 ⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
+3. Social network widget
 ⋅⋅1. Ordered sub-list
-4. And another item.
+4. Online encyclopedia
