@@ -159,3 +159,5 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 #Imagenes
 - The notification box will be located following Daniel’s prototype with the same size. In the lower part of that same side, there will be a circle with a color that matches the emotional state of the date. Somewhere around that element (not yet decided), there will be a heart bar, similar to that in Borja’s prototype, which aims to know the level of likeness that the other person has for the user.
 
+###Moving View
+- Will be similar to In-date view, but in this case the map will be located where the search bar was (top-left), and just below that a text will appear with indications to reach the destination, such as “In 200m, turn left”.
