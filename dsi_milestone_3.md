@@ -155,6 +155,7 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 ###In-date view:
 - The map will not be present.
 - The search bar will be on the top-left side, and will display information with pictures taken from Wikipedia or other sources. Two examples are provided, being the second one better for our app:
+
 #Imagenes
 - The notification box will be located following Daniel’s prototype with the same size. In the lower part of that same side, there will be a circle with a color that matches the emotional state of the date. Somewhere around that element (not yet decided), there will be a heart bar, similar to that in Borja’s prototype, which aims to know the level of likeness that the other person has for the user.
 
