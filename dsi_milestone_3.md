@@ -73,3 +73,11 @@ These elements have been extracted directly from the requriements.
 - The app has to analyze (action) the user gestures and face (object) and find out if the guy is starting to fall in love (action) during the date (context).
 
   1. We can see the emotional state of the other person permanently in the “main view”.
+
+##Functional groups and hierarchy (first pass)
+###Pre-date view
+- There should be a field to search for the name of the date.
+- Information of his/her social media profiles is displayed and browsable.
+- A list of the previous partners of the date will also be available.
+- A list of possible topics to talk about will be present.
+- The information can obstruct the view (sovereign posture), since the user is not paying full attention to the date yet.
