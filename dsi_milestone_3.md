@@ -65,11 +65,9 @@ These elements have been extracted directly from the requriements.
 
 ###Helene:
 - Display (action) a box (object) to see all the previous relationships of the guy and see the comments of their ex-girlfriends beforehand (context). It should search (action) for common hobbies(object) and propose new topics (action) to Helene in the screen when the conversation stalls(context).
-
 The same as the second functional element of Josh. It can also notify when to talk about some particular topic. (Notice that there are two functional elements in one)
 
 - She wants to know if the guy is trustworthy, so the app has to notify(action) this information and the reasons(object) in advance(context), so Helene does not waste time. The app should notify (Action) if the guy (object) is looking for a long term relationship during the date (context).
-
 A notification will be shown just the same way as with Aaron. (Notice that there are two functional elements in one)
 
 - The app has to analyze (action) the user gestures and face (object) and find out if the guy is starting to fall in love (action) during the date (context).
