@@ -81,3 +81,17 @@ These elements have been extracted directly from the requriements.
 - A list of the previous partners of the date will also be available.
 - A list of possible topics to talk about will be present.
 - The information can obstruct the view (sovereign posture), since the user is not paying full attention to the date yet.
+
+###In-date view (Main view)
+- The central space is empty, to be occupied by the date (daemonic posture).
+- There has to be a widget to display the emotional state of the date at all times.
+- There has to be a space reserved for notifications about:
+  - When the user is approaching dangerous topics.
+  - When the conversation runs out, a suggestion of topics.
+  - Whether the date is lying or not.
+- The notifications should be easily closeable.
+- There should be a search bar that responds to voice commands. The bar should follow the conversation, and when the user requests “more data”, the bar should already have a digested list of results. The result should not intrude with the central view of the date.
+
+###Moving view
+- There should be a search bar to search for places to go.
+- There should be a map display, which contains the route to the selected location and suggestions for other locations to move to.
