@@ -39,6 +39,6 @@ These elements have been extracted directly from the requriements.
 ###Josh:
 - Connect (Action) with wikipedia to show biographies or historical facts (objects) that are interesting to know for the user (context).
 
-  1.From our “main view” we can identify an wikipedia search bar showing the title in every moment of the subject that is relevant in that moment form the application point of view.
-  2.Josh can see the information about the subject the application decides in any moment.
-  3.When seeing the information Josh can select rapidly where to go in an index.
+  1. From our “main view” we can identify an wikipedia search bar showing the title in every moment of the subject that is relevant in that moment form the application point of view.
+  2. Josh can see the information about the subject the application decides in any moment.
+  3. When seeing the information Josh can select rapidly where to go in an index.
