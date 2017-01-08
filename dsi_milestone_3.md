@@ -151,3 +151,7 @@ After discussing the prototypes and keypath scenarios, we distilled a list of ch
 - The search bar was identical in both prototypes, so it should remain unchanged.
 - The social networks will not be individually filterable, and instead a digest will appear, containing unified information of each of them.
 - The “Iterests” tab will contain information about the last posts made, followed pages and personalities, common acquaitances and former partners.
+
+###In-date view:
+The map will not be present.
+The search bar will be on the top-left side, and will display information with pictures taken from Wikipedia or other sources. Two examples are provided, being the second one better for our app: 
