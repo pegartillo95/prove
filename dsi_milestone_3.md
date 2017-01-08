@@ -95,3 +95,9 @@ These elements have been extracted directly from the requriements.
 ###Moving view
 - There should be a search bar to search for places to go.
 - There should be a map display, which contains the route to the selected location and suggestions for other locations to move to.
+
+##Sketch of the Interaction Framework (first pass)
+The sketches for the first pass of the interaction framework sketches can be found in the folder Prototypes/1st Iteration.
+
+##Keypath scenarios (first pass)
+With the initial sketches in hand, we created a series of keypath scenarios to demonstrate the main ways the user can interact with the app.
