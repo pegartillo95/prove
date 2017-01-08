@@ -40,3 +40,4 @@ These elements have been extracted directly from the requriements.
 3. Social network widget
 ⋅⋅1. Ordered sub-list
 4. Online encyclopedia
+5. Intermittent notifications box
