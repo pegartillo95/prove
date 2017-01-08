@@ -36,7 +36,7 @@ These elements have been extracted directly from the requriements.
 
 1. Map
 2. Emotion
-⋅⋅* Colour (for each emotion). 
+  * Colour (for each emotion). 
 3. Social network widget
 
 4. Online encyclopedia
