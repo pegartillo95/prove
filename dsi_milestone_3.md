@@ -33,3 +33,10 @@ These elements have been extracted directly from the requriements.
 ..* Low intrusive appearance.
 ..* Easy to read.
 ..* Intermittent (it appears and disappears).
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
